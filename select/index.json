@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "LOVE LINE (운명선)",
+  "base_artist": "NiziU",
+  "createdAt": "2025-12-03T08:58:22.691875Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Love Line",
+      "artist": "Exile",
+      "has_synced": true,
+      "path": "select/01_Love_Line_Exile.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Love Line",
+      "artist": "LeAnn Rimes",
+      "has_synced": true,
+      "path": "select/02_Love_Line_LeAnn_Rimes.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Love Line - The Live Church Session",
+      "artist": "LeAnn Rimes",
+      "has_synced": true,
+      "path": "select/03_Love_Line_-_The_Live_Church_Session_LeAnn_Rimes.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Love Line",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/04_Love_Line_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "평행선 Love Line",
+      "artist": "TVXQ",
+      "has_synced": true,
+      "path": "select/05_평행선_Love_Line_TVXQ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "평행선 (Love Line)",
+      "artist": "TVXQ!",
+      "has_synced": true,
+      "path": "select/06_평행선_(Love_Line)_TVXQ!.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Love Line",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/07_Love_Line_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Love Line (Dave Audé Edit Remix)",
+      "artist": "LeAnn Rimes",
+      "has_synced": false,
+      "path": "select/08_Love_Line_(Dave_Audé_Edit_Remix)_LeAnn_Rimes.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "1-800 Love Line - Skit",
+      "artist": "Bliss n Eso",
+      "has_synced": false,
+      "path": "select/09_1-800_Love_Line_-_Skit_Bliss_n_Eso.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Love Line",
+      "artist": "High4",
+      "has_synced": true,
+      "path": "select/10_Love_Line_High4.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "LOVE LINE",
+      "artist": "TWICE (트와이스)",
+      "has_synced": true,
+      "path": "select/11_LOVE_LINE_TWICE_(트와이스).lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "평행선 (Love Line)",
+      "artist": "DBSK",
+      "has_synced": true,
+      "path": "select/12_평행선_(Love_Line)_DBSK.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Beau's All Night Radio Love Line",
+      "artist": "Joshua Kadison",
+      "has_synced": true,
+      "path": "select/13_Beau's_All_Night_Radio_Love_Line_Joshua_Kadison.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Love Line (with Tinashe)",
+      "artist": "Shift K3Y feat. Tinashe",
+      "has_synced": true,
+      "path": "select/14_Love_Line_(with_Tinashe)_Shift_K3Y_feat._Tinashe.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Love Line (Behind The Scenes)",
+      "artist": "Shift K3Y",
+      "has_synced": true,
+      "path": "select/15_Love_Line_(Behind_The_Scenes)_Shift_K3Y.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Love Line - Shift K3Y’s Extended All Night VIP",
+      "artist": "Shift K3Y feat. Tinashe",
+      "has_synced": true,
+      "path": "select/16_Love_Line_-_Shift_K3Y’s_Extended_All_Night_VIP_Shift_K3Y_feat._Tinashe.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Love Line - Shift K3Y’s Extended All Night VIP",
+      "artist": "Shift K3Y/Tinashe",
+      "has_synced": true,
+      "path": "select/17_Love_Line_-_Shift_K3Y’s_Extended_All_Night_VIP_Shift_K3Y_Tinashe.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LOVE LINE",
+      "artist": "NiZiU",
+      "has_synced": false,
+      "path": "select/pl_01_LOVE_LINE_NiZiU.txt"
+    }
+  ]
+}
